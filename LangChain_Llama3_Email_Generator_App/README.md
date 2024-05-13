@@ -1,4 +1,4 @@
-**Step1:** To create a project suing Olama, go to https://ollama.com/ and download the Olama .exe file and install it
+**Step1:** To create a project using Olama, go to https://ollama.com/ and download the Olama .exe file and install it
 
 **Step2:** Create Virtual enviornment in VS code or any other IDE, 
 Open terminal: to open vs code type cmd +shift +P
